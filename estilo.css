@@ -1,0 +1,36 @@
+* {
+    font-size: 16px;
+}
+
+img {
+    width: 14.5rem;
+    height: 14.5rem;
+}
+
+div {
+    border: 0.1rem solid gray;
+    width: 20rem;
+    height: 30rem;
+    margin: 1rem auto;
+    padding: 0.5rem;
+}
+
+log {
+    width: 14.5rem;
+}
+
+p {
+    color: goldenrod;
+    background-color: black;
+    width: 14.5rem;
+    height: 14.5rem;
+    margin: 1rem auto;
+    border-radius: 0%;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border: none;
+
+}
